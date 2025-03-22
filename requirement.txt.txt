@@ -1,0 +1,7 @@
+opencv-python
+mediapipe
+face-recognition
+pyttsx3
+pickle-mixin
+SpeechRecognition
+numpy
